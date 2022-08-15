@@ -13,7 +13,7 @@ The Flatiron Theater Company is holding Auditions!
 
 An actor may only `Audition` for one `Role`, while a `Role` may have many `Auditions` for it! 
 
-![one to many](https://curriculum-content.s3.amazonaws.com/phase-3/active-record-theater-work/one_to_many.png)
+![one to many]()
 
 ## Getting started 
 
